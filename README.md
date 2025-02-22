@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Avaliable 
+Currently Unavaliable 
 
 
 ## 🌐 Socials:
