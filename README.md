@@ -1,5 +1,5 @@
 # 💫 About Me:
-Everything but, the rain
+Currently Avaliable 
 
 
 ## 🌐 Socials:
