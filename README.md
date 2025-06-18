@@ -9,10 +9,10 @@ I am looking forward to build fast and secure application in different business 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyae-phyo-aung-cc/)
 
 
-<!--
+
 # Portfolio
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyae-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=10)
--->
+
 
 # 💻 Current Working Tech Stack
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
@@ -62,17 +62,7 @@ I am looking forward to build fast and secure application in different business 
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
 
- <!-- 
-<details>
-  <h1>📁 Languages</h1>
-  <ul>
-    <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></li>
-    <li><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></li>
-  </ul>
 
-</details>
- -->
 
 
 # ✍️ Random Dev Quote
