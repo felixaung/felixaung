@@ -67,7 +67,7 @@ Junior developer who loves tech and is glad to pitch in into a team, building ro
 
 
 
-# ✍️ Random Dev Quote
+# ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
