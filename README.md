@@ -10,7 +10,7 @@ Junior developer who loves tech and is glad to pitch in into a team, building ro
 
 
 # Portfolio
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchijk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaung&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=10)
 
 
 # 💻 Current Working Tech Stack
