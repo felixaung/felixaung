@@ -1,6 +1,6 @@
 
 # 💫 About Me
-Junior developer who loves tech and is glad to pitch in into a team, building robust systems. My strong analytical skill powers solving the problem and diving deep to get solution. I am looking forward to build fast and secure applications in different business fields.
+Junior web developer who loves tech and is glad to pitch in into a team, building robust systems. My strong analytical skill powers solving the problem and diving deep to get solution. I am looking forward to build fast and secure applications in different business fields.
 
 ## 🌐 Socials
 
