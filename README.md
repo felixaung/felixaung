@@ -8,10 +8,10 @@ Junior web developer who loves tech and is glad to pitch in into a team, buildin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-phyo-aung/)
 
 
-<!-- 
+
 # Portfolio
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixaung&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=10)
--->
+
 
 # 💻 Current Working Tech Stack
 
