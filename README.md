@@ -1,6 +1,6 @@
 
 # 💫 About Me
-Developer who loves tech and is glad to pitch in into a team, building resilient systems. My strong analytical skill powers solving the problem and diving deep to get solution. I am looking forward to build fast and secure applications in different business fields.
+Developer who loves tech and is glad to pitch in into a team, building scalable, reliable, secure, maintainable, resilient, extensible, available, and observable systems. My strong analytical skill powers solving the problem and diving deep to get solution. I am looking forward to build fast and secure applications in different business fields.
 
 ## 🌐 Socials
 
