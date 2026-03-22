@@ -15,7 +15,6 @@ Developer who loves tech and is glad to pitch in into a team, building scalable,
 
 # 💻 Current Working Tech Stack
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
