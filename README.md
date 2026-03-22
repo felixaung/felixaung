@@ -14,7 +14,8 @@ Developer who loves tech and is glad to pitch in into a team, building scalable,
 -->
 
 # 💻 Current Working Tech Stack
-
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -27,7 +28,7 @@ Developer who loves tech and is glad to pitch in into a team, building scalable,
 
 
 ## 📁 Languages
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
