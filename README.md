@@ -14,10 +14,8 @@ Developer who loves tech and is glad to pitch in into a team, building scalable,
 -->
 
 # 💻 Current Working Tech Stack
-![WPF](https://img.shields.io/badge/WPF-%23512BD4.svg?style=for-the-badge&logo=windows&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-Windows%20Presentation%20Foundation-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ![WPF](https://img.shields.io/badge/.NET-WPF-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-Desktop%20UI-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
