@@ -16,7 +16,6 @@ Developer who loves tech and is glad to pitch in into a team, building scalable,
 # 💻 Current Working Tech Stack
 
 ![WPF](https://img.shields.io/badge/.NET-WPF-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -26,6 +25,7 @@ Developer who loves tech and is glad to pitch in into a team, building scalable,
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 -->
 
 
